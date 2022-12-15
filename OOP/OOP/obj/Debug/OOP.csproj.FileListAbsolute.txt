@@ -1,0 +1,10 @@
+G:\Dokumenty\Csharp\OOP\OOP\bin\Debug\OOP.exe.config
+G:\Dokumenty\Csharp\OOP\OOP\bin\Debug\OOP.exe
+G:\Dokumenty\Csharp\OOP\OOP\bin\Debug\OOP.pdb
+G:\Dokumenty\Csharp\OOP\OOP\obj\Debug\OOP.csprojAssemblyReference.cache
+G:\Dokumenty\Csharp\OOP\OOP\obj\Debug\OOP.Form1.resources
+G:\Dokumenty\Csharp\OOP\OOP\obj\Debug\OOP.Properties.Resources.resources
+G:\Dokumenty\Csharp\OOP\OOP\obj\Debug\OOP.csproj.GenerateResource.cache
+G:\Dokumenty\Csharp\OOP\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
+G:\Dokumenty\Csharp\OOP\OOP\obj\Debug\OOP.exe
+G:\Dokumenty\Csharp\OOP\OOP\obj\Debug\OOP.pdb
