@@ -8,3 +8,14 @@ G:\Dokumenty\Csharp\OOP\OOP\obj\Debug\OOP.csproj.GenerateResource.cache
 G:\Dokumenty\Csharp\OOP\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
 G:\Dokumenty\Csharp\OOP\OOP\obj\Debug\OOP.exe
 G:\Dokumenty\Csharp\OOP\OOP\obj\Debug\OOP.pdb
+D:\Koj\Programování\GitHub\C#\OOP---DU5\OOP\OOP\obj\Debug\OOP.csproj.AssemblyReference.cache
+D:\Koj\Programování\GitHub\C#\OOP---DU5\OOP\OOP\obj\Debug\OOP.csproj.SuggestedBindingRedirects.cache
+D:\Koj\Programování\GitHub\C#\OOP---DU5\OOP\OOP\obj\Debug\OOP.Form1.resources
+D:\Koj\Programování\GitHub\C#\OOP---DU5\OOP\OOP\obj\Debug\OOP.Properties.Resources.resources
+D:\Koj\Programování\GitHub\C#\OOP---DU5\OOP\OOP\obj\Debug\OOP.csproj.GenerateResource.cache
+D:\Koj\Programování\GitHub\C#\OOP---DU5\OOP\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
+D:\Koj\Programování\GitHub\C#\OOP---DU5\OOP\OOP\obj\Debug\OOP.exe
+D:\Koj\Programování\GitHub\C#\OOP---DU5\OOP\OOP\obj\Debug\OOP.pdb
+D:\Koj\Programování\GitHub\C#\OOP---DU5\OOP\OOP\bin\Debug\OOP.exe.config
+D:\Koj\Programování\GitHub\C#\OOP---DU5\OOP\OOP\bin\Debug\OOP.exe
+D:\Koj\Programování\GitHub\C#\OOP---DU5\OOP\OOP\bin\Debug\OOP.pdb

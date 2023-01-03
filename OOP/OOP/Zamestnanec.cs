@@ -24,24 +24,25 @@ namespace OOP
             odpracHodiny = 0;
         }
 
-        protected virtual int PocetDni()
+        public virtual int PocetDni()
         {
             return (int)(DateTime.Now - datumNastupu).TotalDays;
         }
 
-        protected virtual void OdpracujHodiny(short hodiny)
+        public virtual void OdpracujHodiny(short hodiny)
         {
             odpracHodiny += hodiny;
         }
 
-        protected virtual int VypocitejMzdu()
+        public virtual int VypocitejMzdu()
         {
             return hodinovaMzda * odpracHodiny;
         }
 
-        protected virtual string Vypis()
+        public virtual string Vypis()
         {
-            return String.Format("Jmeno: {0}\nPřijmení: {1}\n")
+            return String.Format("Jmeno: {0}\nPřijmení: {1}\nDatum nástupu: {2}\nHodinová mzda: {3}\nOdpracované hodiny: {4}\nZatím neproplacená mzda: {5}",
+                jmeno, prijmeni, datumNastupu.ToString("d"), HodinovaMzda, odpracHodiny, VypocitejMzdu());
         }
     }
 }
